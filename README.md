@@ -20,6 +20,7 @@ TEXTO CopyPaste
 ![Yung Beef](img/yung-beef-javielito-en-la-cara.jpg)
 
 | Items | Objetos | Precio |
+| --------  | --------  | --------  |
 | Item1  | Boligrafos  | 20€  |
 | Item2  | Grapadoras | 1000€  |
 | Item3  | Lápices  | 150€  |
