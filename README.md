@@ -15,6 +15,6 @@
 TEXTO CopyPaste
 ```
 
-[Enlace a Wikipedia](https://es.wikipedia.org/wiki/Yung_Beef)
+[Yung Beef](https://es.wikipedia.org/wiki/Yung_Beef)
 
 ![Yung Beef](img/yung-beef-javielito-en-la-cara.jpg)
