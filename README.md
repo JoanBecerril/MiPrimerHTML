@@ -15,4 +15,6 @@
 TEXTO CopyPaste
 ```
 
-[Enlace a Wikipedia](https://es.wikipedia.org/wiki/Limosa_limosa)
+[Enlace a Wikipedia](https://es.wikipedia.org/wiki/Yung_Beef)
+
+![Yung Beef](img/yung-beef-javielito-en-la-cara.jpg)
