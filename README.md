@@ -4,3 +4,13 @@
 #### Encabezado 4 (H4)
 ##### Encabezado 5 (H5)
 ###### Encabezado 6 (H6)
+
+***TEXTO Negrita y Cursiva***	
+**TEXTO Negrita**
+*TEXTO Cursiva*
+>TEXTO Anotado
+~~TEXTO Tachado~~
+
+```
+TEXTO CopyPaste
+```
