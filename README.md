@@ -15,4 +15,4 @@
 TEXTO CopyPaste
 ```
 
-[Enlace_a_Wikipedia](https://es.wikipedia.org/wiki/Limosa_limosa)
+[Enlace a Wikipedia](https://es.wikipedia.org/wiki/Limosa_limosa)
